@@ -9,7 +9,7 @@
 
 **An end-to-end ML web app that predicts used car prices, rates deals, and delivers real market insights — all from 15,000+ real CarDekho listings.**
 
-[🚀 Live Demo](https://ankit-yadav9834-car-price-prediction--app-6d0kwk.streamlit.app/) &nbsp;·&nbsp; [📊 Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho) &nbsp;·&nbsp; [🐛 Report Bug](../../issues)
+&nbsp;·&nbsp; [📊 Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho) nbsp;·&nbsp; [🐛 Report Bug](../../issues)
 
 </div>
 
@@ -168,9 +168,9 @@ plotly
 
 ## 👤 Author
 
-**Ankit Kumar Yadav**
-- GitHub: [@ankit_yadav9834](https://github.com/ankit-yadav9834)
-- LinkedIn: [Ankit Yadav](https://www.linkedin.com/in/ankit-yadav-802b63322/?locale=%5D)
+**Nikhil Sinha**
+- GitHub: https://github.com/mrnikhilsinha07
+- LinkedIn: [Nikhil Sinha](https://www.linkedin.com/in/nikhil-sinha-b9a7a3330/)
 
 ---
 
